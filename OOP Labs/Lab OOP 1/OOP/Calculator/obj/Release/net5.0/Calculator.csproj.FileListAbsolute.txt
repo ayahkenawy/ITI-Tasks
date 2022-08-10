@@ -1,0 +1,16 @@
+E:\.NET ITI\OOP C#\Day 1 repeate\Lab OOP\OOP\Calculator\bin\Release\net5.0\Calculator.exe
+E:\.NET ITI\OOP C#\Day 1 repeate\Lab OOP\OOP\Calculator\bin\Release\net5.0\Calculator.deps.json
+E:\.NET ITI\OOP C#\Day 1 repeate\Lab OOP\OOP\Calculator\bin\Release\net5.0\Calculator.runtimeconfig.json
+E:\.NET ITI\OOP C#\Day 1 repeate\Lab OOP\OOP\Calculator\bin\Release\net5.0\Calculator.runtimeconfig.dev.json
+E:\.NET ITI\OOP C#\Day 1 repeate\Lab OOP\OOP\Calculator\bin\Release\net5.0\Calculator.dll
+E:\.NET ITI\OOP C#\Day 1 repeate\Lab OOP\OOP\Calculator\bin\Release\net5.0\Calculator.pdb
+E:\.NET ITI\OOP C#\Day 1 repeate\Lab OOP\OOP\Calculator\obj\Release\net5.0\Calculator.csproj.AssemblyReference.cache
+E:\.NET ITI\OOP C#\Day 1 repeate\Lab OOP\OOP\Calculator\obj\Release\net5.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+E:\.NET ITI\OOP C#\Day 1 repeate\Lab OOP\OOP\Calculator\obj\Release\net5.0\Calculator.AssemblyInfoInputs.cache
+E:\.NET ITI\OOP C#\Day 1 repeate\Lab OOP\OOP\Calculator\obj\Release\net5.0\Calculator.AssemblyInfo.cs
+E:\.NET ITI\OOP C#\Day 1 repeate\Lab OOP\OOP\Calculator\obj\Release\net5.0\Calculator.csproj.CoreCompileInputs.cache
+E:\.NET ITI\OOP C#\Day 1 repeate\Lab OOP\OOP\Calculator\obj\Release\net5.0\Calculator.dll
+E:\.NET ITI\OOP C#\Day 1 repeate\Lab OOP\OOP\Calculator\obj\Release\net5.0\refint\Calculator.dll
+E:\.NET ITI\OOP C#\Day 1 repeate\Lab OOP\OOP\Calculator\obj\Release\net5.0\Calculator.pdb
+E:\.NET ITI\OOP C#\Day 1 repeate\Lab OOP\OOP\Calculator\obj\Release\net5.0\Calculator.genruntimeconfig.cache
+E:\.NET ITI\OOP C#\Day 1 repeate\Lab OOP\OOP\Calculator\obj\Release\net5.0\ref\Calculator.dll

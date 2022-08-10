@@ -1,0 +1,16 @@
+E:\.NET ITI\OOP C#\Day 3 repeate\Lab 3\Inheritance\Inheritance\bin\Debug\net5.0\Inheritance.exe
+E:\.NET ITI\OOP C#\Day 3 repeate\Lab 3\Inheritance\Inheritance\bin\Debug\net5.0\Inheritance.deps.json
+E:\.NET ITI\OOP C#\Day 3 repeate\Lab 3\Inheritance\Inheritance\bin\Debug\net5.0\Inheritance.runtimeconfig.json
+E:\.NET ITI\OOP C#\Day 3 repeate\Lab 3\Inheritance\Inheritance\bin\Debug\net5.0\Inheritance.runtimeconfig.dev.json
+E:\.NET ITI\OOP C#\Day 3 repeate\Lab 3\Inheritance\Inheritance\bin\Debug\net5.0\Inheritance.dll
+E:\.NET ITI\OOP C#\Day 3 repeate\Lab 3\Inheritance\Inheritance\bin\Debug\net5.0\Inheritance.pdb
+E:\.NET ITI\OOP C#\Day 3 repeate\Lab 3\Inheritance\Inheritance\obj\Debug\net5.0\Inheritance.csproj.AssemblyReference.cache
+E:\.NET ITI\OOP C#\Day 3 repeate\Lab 3\Inheritance\Inheritance\obj\Debug\net5.0\Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+E:\.NET ITI\OOP C#\Day 3 repeate\Lab 3\Inheritance\Inheritance\obj\Debug\net5.0\Inheritance.AssemblyInfoInputs.cache
+E:\.NET ITI\OOP C#\Day 3 repeate\Lab 3\Inheritance\Inheritance\obj\Debug\net5.0\Inheritance.AssemblyInfo.cs
+E:\.NET ITI\OOP C#\Day 3 repeate\Lab 3\Inheritance\Inheritance\obj\Debug\net5.0\Inheritance.csproj.CoreCompileInputs.cache
+E:\.NET ITI\OOP C#\Day 3 repeate\Lab 3\Inheritance\Inheritance\obj\Debug\net5.0\Inheritance.dll
+E:\.NET ITI\OOP C#\Day 3 repeate\Lab 3\Inheritance\Inheritance\obj\Debug\net5.0\refint\Inheritance.dll
+E:\.NET ITI\OOP C#\Day 3 repeate\Lab 3\Inheritance\Inheritance\obj\Debug\net5.0\Inheritance.pdb
+E:\.NET ITI\OOP C#\Day 3 repeate\Lab 3\Inheritance\Inheritance\obj\Debug\net5.0\Inheritance.genruntimeconfig.cache
+E:\.NET ITI\OOP C#\Day 3 repeate\Lab 3\Inheritance\Inheritance\obj\Debug\net5.0\ref\Inheritance.dll

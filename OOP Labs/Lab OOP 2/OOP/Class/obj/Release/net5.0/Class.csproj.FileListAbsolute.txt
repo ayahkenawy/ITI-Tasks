@@ -1,0 +1,32 @@
+E:\.NET ITI\OOP C#\Day 3\Lab 2\OOP\Class\bin\Release\net5.0\Class.exe
+E:\.NET ITI\OOP C#\Day 3\Lab 2\OOP\Class\bin\Release\net5.0\Class.deps.json
+E:\.NET ITI\OOP C#\Day 3\Lab 2\OOP\Class\bin\Release\net5.0\Class.runtimeconfig.json
+E:\.NET ITI\OOP C#\Day 3\Lab 2\OOP\Class\bin\Release\net5.0\Class.runtimeconfig.dev.json
+E:\.NET ITI\OOP C#\Day 3\Lab 2\OOP\Class\bin\Release\net5.0\Class.dll
+E:\.NET ITI\OOP C#\Day 3\Lab 2\OOP\Class\bin\Release\net5.0\Class.pdb
+E:\.NET ITI\OOP C#\Day 3\Lab 2\OOP\Class\obj\Release\net5.0\Class.csproj.AssemblyReference.cache
+E:\.NET ITI\OOP C#\Day 3\Lab 2\OOP\Class\obj\Release\net5.0\Class.GeneratedMSBuildEditorConfig.editorconfig
+E:\.NET ITI\OOP C#\Day 3\Lab 2\OOP\Class\obj\Release\net5.0\Class.AssemblyInfoInputs.cache
+E:\.NET ITI\OOP C#\Day 3\Lab 2\OOP\Class\obj\Release\net5.0\Class.AssemblyInfo.cs
+E:\.NET ITI\OOP C#\Day 3\Lab 2\OOP\Class\obj\Release\net5.0\Class.csproj.CoreCompileInputs.cache
+E:\.NET ITI\OOP C#\Day 3\Lab 2\OOP\Class\obj\Release\net5.0\Class.dll
+E:\.NET ITI\OOP C#\Day 3\Lab 2\OOP\Class\obj\Release\net5.0\refint\Class.dll
+E:\.NET ITI\OOP C#\Day 3\Lab 2\OOP\Class\obj\Release\net5.0\Class.pdb
+E:\.NET ITI\OOP C#\Day 3\Lab 2\OOP\Class\obj\Release\net5.0\Class.genruntimeconfig.cache
+E:\.NET ITI\OOP C#\Day 3\Lab 2\OOP\Class\obj\Release\net5.0\ref\Class.dll
+E:\.NET ITI\OOP C#\Day 1 repeate\Lab OOP\OOP\Class\obj\Release\net5.0\Class.csproj.AssemblyReference.cache
+E:\.NET ITI\OOP C#\Day 1 repeate\Lab OOP\OOP\Class\obj\Release\net5.0\Class.GeneratedMSBuildEditorConfig.editorconfig
+E:\.NET ITI\OOP C#\Day 1 repeate\Lab OOP\OOP\Class\obj\Release\net5.0\Class.AssemblyInfoInputs.cache
+E:\.NET ITI\OOP C#\Day 1 repeate\Lab OOP\OOP\Class\obj\Release\net5.0\Class.AssemblyInfo.cs
+E:\.NET ITI\OOP C#\Day 1 repeate\Lab OOP\OOP\Class\obj\Release\net5.0\Class.csproj.CoreCompileInputs.cache
+E:\.NET ITI\OOP C#\Day 1 repeate\Lab OOP\OOP\Class\obj\Release\net5.0\Class.dll
+E:\.NET ITI\OOP C#\Day 1 repeate\Lab OOP\OOP\Class\obj\Release\net5.0\refint\Class.dll
+E:\.NET ITI\OOP C#\Day 1 repeate\Lab OOP\OOP\Class\obj\Release\net5.0\Class.pdb
+E:\.NET ITI\OOP C#\Day 1 repeate\Lab OOP\OOP\Class\bin\Release\net5.0\Class.exe
+E:\.NET ITI\OOP C#\Day 1 repeate\Lab OOP\OOP\Class\bin\Release\net5.0\Class.deps.json
+E:\.NET ITI\OOP C#\Day 1 repeate\Lab OOP\OOP\Class\bin\Release\net5.0\Class.runtimeconfig.json
+E:\.NET ITI\OOP C#\Day 1 repeate\Lab OOP\OOP\Class\bin\Release\net5.0\Class.runtimeconfig.dev.json
+E:\.NET ITI\OOP C#\Day 1 repeate\Lab OOP\OOP\Class\bin\Release\net5.0\Class.dll
+E:\.NET ITI\OOP C#\Day 1 repeate\Lab OOP\OOP\Class\bin\Release\net5.0\Class.pdb
+E:\.NET ITI\OOP C#\Day 1 repeate\Lab OOP\OOP\Class\obj\Release\net5.0\Class.genruntimeconfig.cache
+E:\.NET ITI\OOP C#\Day 1 repeate\Lab OOP\OOP\Class\obj\Release\net5.0\ref\Class.dll

@@ -1,0 +1,16 @@
+E:\.NET ITI\OOP C#\Day 3 repeate\Lab 3\agg_comp\agg_comp\bin\Debug\net5.0\agg_comp.exe
+E:\.NET ITI\OOP C#\Day 3 repeate\Lab 3\agg_comp\agg_comp\bin\Debug\net5.0\agg_comp.deps.json
+E:\.NET ITI\OOP C#\Day 3 repeate\Lab 3\agg_comp\agg_comp\bin\Debug\net5.0\agg_comp.runtimeconfig.json
+E:\.NET ITI\OOP C#\Day 3 repeate\Lab 3\agg_comp\agg_comp\bin\Debug\net5.0\agg_comp.runtimeconfig.dev.json
+E:\.NET ITI\OOP C#\Day 3 repeate\Lab 3\agg_comp\agg_comp\bin\Debug\net5.0\agg_comp.dll
+E:\.NET ITI\OOP C#\Day 3 repeate\Lab 3\agg_comp\agg_comp\bin\Debug\net5.0\agg_comp.pdb
+E:\.NET ITI\OOP C#\Day 3 repeate\Lab 3\agg_comp\agg_comp\obj\Debug\net5.0\agg_comp.csproj.AssemblyReference.cache
+E:\.NET ITI\OOP C#\Day 3 repeate\Lab 3\agg_comp\agg_comp\obj\Debug\net5.0\agg_comp.GeneratedMSBuildEditorConfig.editorconfig
+E:\.NET ITI\OOP C#\Day 3 repeate\Lab 3\agg_comp\agg_comp\obj\Debug\net5.0\agg_comp.AssemblyInfoInputs.cache
+E:\.NET ITI\OOP C#\Day 3 repeate\Lab 3\agg_comp\agg_comp\obj\Debug\net5.0\agg_comp.AssemblyInfo.cs
+E:\.NET ITI\OOP C#\Day 3 repeate\Lab 3\agg_comp\agg_comp\obj\Debug\net5.0\agg_comp.csproj.CoreCompileInputs.cache
+E:\.NET ITI\OOP C#\Day 3 repeate\Lab 3\agg_comp\agg_comp\obj\Debug\net5.0\agg_comp.dll
+E:\.NET ITI\OOP C#\Day 3 repeate\Lab 3\agg_comp\agg_comp\obj\Debug\net5.0\refint\agg_comp.dll
+E:\.NET ITI\OOP C#\Day 3 repeate\Lab 3\agg_comp\agg_comp\obj\Debug\net5.0\agg_comp.pdb
+E:\.NET ITI\OOP C#\Day 3 repeate\Lab 3\agg_comp\agg_comp\obj\Debug\net5.0\agg_comp.genruntimeconfig.cache
+E:\.NET ITI\OOP C#\Day 3 repeate\Lab 3\agg_comp\agg_comp\obj\Debug\net5.0\ref\agg_comp.dll
