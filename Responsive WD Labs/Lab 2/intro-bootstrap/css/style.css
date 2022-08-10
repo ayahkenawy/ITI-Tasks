@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.contain {
+    padding: 0 1rem;
+    width: 100%;
+    height: 5rem;
+    background-color: lightgrey;
+    border-radius: 20px;
+}
+
+.nav ul {
+    display: flex;
+    list-style-type: none;
+    justify-content: space-between;
+    margin-top: .75rem;
+    width: 100%;
+}
+
+nav ul li {
+    margin-right: 2rem;
+    font-size: xx-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+ul :nth-child(5){
+    border: lightgrey;
+    border-radius: 25px;
+   width: 50rem;
+   background-color: white;
+   padding: 0.3rem;
+}
+li input{
+    border: none;
+    border-radius: 15px;
+    margin-right: 24rem;
+}
+
+
+
+
+
+

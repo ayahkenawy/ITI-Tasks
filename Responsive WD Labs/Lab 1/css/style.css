@@ -1,0 +1,110 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.userImg {
+    height: 5rem;
+    width: 7rem;
+}
+
+aside {
+    font-size: xxx-large;
+}
+
+.contain {
+    padding: 0 1rem;
+    width: 100%;
+    height: 5rem;
+    background-color: lightgrey;
+    display: flex;
+    justify-content: space-between;
+    justify-items: center;
+    border-radius: 20px;
+}
+
+.BurImg {
+    display: none;
+}
+
+h5 {
+    margin-top: 1.5rem;
+    margin-right: .3rem;
+}
+
+.nav ul {
+    display: flex;
+    list-style-type: none;
+    justify-content: center;
+    justify-items: center;
+    margin-top: 1.5rem;
+}
+
+nav ul li {
+    margin: .2rem;
+    font-size: medium;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.userContain {
+    display: flex;
+    justify-items: center;
+    justify-content: space-between;
+}
+
+@media (max-width:320px) {
+    .BurImg {
+        display: block !important;
+        height: 3rem;
+        width: 5rem;
+        margin-top: 1rem;
+    }
+    .nav {
+        display: none !important;
+    }
+    .userContain {
+        display: none !important;
+    }
+}
+
+.contains {
+    display: grid;
+    background-color: lightgrey;
+    width: 100%;
+    height: 40rem;
+    border-radius: 2rem;
+    grid-template-areas: "love formarea formarea formarea";
+}
+
+.loved {
+    grid-area: love;
+    background-color: lightskyblue;
+    border-radius: 2rem;
+    margin: 1rem;
+    text-align: center;
+    color: white;
+    font-weight: lighter;
+}
+
+.form {
+    grid-area: formarea;
+    background-color: white;
+    border-radius: 2rem;
+    margin: 1rem;
+    color: blueviolet;
+    padding: 1rem;
+}
+
+.btn {
+    margin-top: 12rem;
+    width: 100%;
+}
+
+.input {
+    display: flex;
+    justify-content: space-around;
+}
+
+input {
+    width: 200px!important;
+}
