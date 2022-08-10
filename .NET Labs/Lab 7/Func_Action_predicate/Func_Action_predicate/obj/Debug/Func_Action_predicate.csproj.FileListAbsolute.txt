@@ -1,0 +1,8 @@
+E:\.NET ITI\.net C#\Day 7\Lab 7\Func_Action_predicate\Func_Action_predicate\bin\Debug\Func_Action_predicate.exe.config
+E:\.NET ITI\.net C#\Day 7\Lab 7\Func_Action_predicate\Func_Action_predicate\bin\Debug\Func_Action_predicate.exe
+E:\.NET ITI\.net C#\Day 7\Lab 7\Func_Action_predicate\Func_Action_predicate\bin\Debug\Func_Action_predicate.pdb
+E:\.NET ITI\.net C#\Day 7\Lab 7\Func_Action_predicate\Func_Action_predicate\obj\Debug\Func_Action_predicate.csproj.AssemblyReference.cache
+E:\.NET ITI\.net C#\Day 7\Lab 7\Func_Action_predicate\Func_Action_predicate\obj\Debug\Func_Action_predicate.csproj.SuggestedBindingRedirects.cache
+E:\.NET ITI\.net C#\Day 7\Lab 7\Func_Action_predicate\Func_Action_predicate\obj\Debug\Func_Action_predicate.csproj.CoreCompileInputs.cache
+E:\.NET ITI\.net C#\Day 7\Lab 7\Func_Action_predicate\Func_Action_predicate\obj\Debug\Func_Action_predicate.exe
+E:\.NET ITI\.net C#\Day 7\Lab 7\Func_Action_predicate\Func_Action_predicate\obj\Debug\Func_Action_predicate.pdb

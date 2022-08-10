@@ -1,0 +1,8 @@
+E:\.NET ITI\.net C#\Day 6\Lab 6\Exams\Exams\bin\Debug\Exams.exe.config
+E:\.NET ITI\.net C#\Day 6\Lab 6\Exams\Exams\bin\Debug\Exams.exe
+E:\.NET ITI\.net C#\Day 6\Lab 6\Exams\Exams\bin\Debug\Exams.pdb
+E:\.NET ITI\.net C#\Day 6\Lab 6\Exams\Exams\obj\Debug\Exams.csproj.AssemblyReference.cache
+E:\.NET ITI\.net C#\Day 6\Lab 6\Exams\Exams\obj\Debug\Exams.csproj.SuggestedBindingRedirects.cache
+E:\.NET ITI\.net C#\Day 6\Lab 6\Exams\Exams\obj\Debug\Exams.csproj.CoreCompileInputs.cache
+E:\.NET ITI\.net C#\Day 6\Lab 6\Exams\Exams\obj\Debug\Exams.exe
+E:\.NET ITI\.net C#\Day 6\Lab 6\Exams\Exams\obj\Debug\Exams.pdb

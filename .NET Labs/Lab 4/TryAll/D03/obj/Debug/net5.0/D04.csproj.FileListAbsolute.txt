@@ -1,0 +1,16 @@
+E:\.NET ITI\.net C#\Day 4\Lab 4\TryAll\D03\bin\Debug\net5.0\D04.exe
+E:\.NET ITI\.net C#\Day 4\Lab 4\TryAll\D03\bin\Debug\net5.0\D04.deps.json
+E:\.NET ITI\.net C#\Day 4\Lab 4\TryAll\D03\bin\Debug\net5.0\D04.runtimeconfig.json
+E:\.NET ITI\.net C#\Day 4\Lab 4\TryAll\D03\bin\Debug\net5.0\D04.runtimeconfig.dev.json
+E:\.NET ITI\.net C#\Day 4\Lab 4\TryAll\D03\bin\Debug\net5.0\D04.dll
+E:\.NET ITI\.net C#\Day 4\Lab 4\TryAll\D03\bin\Debug\net5.0\D04.pdb
+E:\.NET ITI\.net C#\Day 4\Lab 4\TryAll\D03\obj\Debug\net5.0\D04.csproj.AssemblyReference.cache
+E:\.NET ITI\.net C#\Day 4\Lab 4\TryAll\D03\obj\Debug\net5.0\D04.GeneratedMSBuildEditorConfig.editorconfig
+E:\.NET ITI\.net C#\Day 4\Lab 4\TryAll\D03\obj\Debug\net5.0\D04.AssemblyInfoInputs.cache
+E:\.NET ITI\.net C#\Day 4\Lab 4\TryAll\D03\obj\Debug\net5.0\D04.AssemblyInfo.cs
+E:\.NET ITI\.net C#\Day 4\Lab 4\TryAll\D03\obj\Debug\net5.0\D04.csproj.CoreCompileInputs.cache
+E:\.NET ITI\.net C#\Day 4\Lab 4\TryAll\D03\obj\Debug\net5.0\D04.dll
+E:\.NET ITI\.net C#\Day 4\Lab 4\TryAll\D03\obj\Debug\net5.0\refint\D04.dll
+E:\.NET ITI\.net C#\Day 4\Lab 4\TryAll\D03\obj\Debug\net5.0\D04.pdb
+E:\.NET ITI\.net C#\Day 4\Lab 4\TryAll\D03\obj\Debug\net5.0\D04.genruntimeconfig.cache
+E:\.NET ITI\.net C#\Day 4\Lab 4\TryAll\D03\obj\Debug\net5.0\ref\D04.dll

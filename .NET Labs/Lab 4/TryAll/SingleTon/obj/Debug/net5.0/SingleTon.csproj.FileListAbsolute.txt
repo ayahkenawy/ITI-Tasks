@@ -1,0 +1,16 @@
+E:\.NET ITI\.net C#\Day 4\Lab 4\TryAll\SingleTon\bin\Debug\net5.0\SingleTon.exe
+E:\.NET ITI\.net C#\Day 4\Lab 4\TryAll\SingleTon\bin\Debug\net5.0\SingleTon.deps.json
+E:\.NET ITI\.net C#\Day 4\Lab 4\TryAll\SingleTon\bin\Debug\net5.0\SingleTon.runtimeconfig.json
+E:\.NET ITI\.net C#\Day 4\Lab 4\TryAll\SingleTon\bin\Debug\net5.0\SingleTon.runtimeconfig.dev.json
+E:\.NET ITI\.net C#\Day 4\Lab 4\TryAll\SingleTon\bin\Debug\net5.0\SingleTon.dll
+E:\.NET ITI\.net C#\Day 4\Lab 4\TryAll\SingleTon\bin\Debug\net5.0\SingleTon.pdb
+E:\.NET ITI\.net C#\Day 4\Lab 4\TryAll\SingleTon\obj\Debug\net5.0\SingleTon.csproj.AssemblyReference.cache
+E:\.NET ITI\.net C#\Day 4\Lab 4\TryAll\SingleTon\obj\Debug\net5.0\SingleTon.GeneratedMSBuildEditorConfig.editorconfig
+E:\.NET ITI\.net C#\Day 4\Lab 4\TryAll\SingleTon\obj\Debug\net5.0\SingleTon.AssemblyInfoInputs.cache
+E:\.NET ITI\.net C#\Day 4\Lab 4\TryAll\SingleTon\obj\Debug\net5.0\SingleTon.AssemblyInfo.cs
+E:\.NET ITI\.net C#\Day 4\Lab 4\TryAll\SingleTon\obj\Debug\net5.0\SingleTon.csproj.CoreCompileInputs.cache
+E:\.NET ITI\.net C#\Day 4\Lab 4\TryAll\SingleTon\obj\Debug\net5.0\SingleTon.dll
+E:\.NET ITI\.net C#\Day 4\Lab 4\TryAll\SingleTon\obj\Debug\net5.0\refint\SingleTon.dll
+E:\.NET ITI\.net C#\Day 4\Lab 4\TryAll\SingleTon\obj\Debug\net5.0\SingleTon.pdb
+E:\.NET ITI\.net C#\Day 4\Lab 4\TryAll\SingleTon\obj\Debug\net5.0\SingleTon.genruntimeconfig.cache
+E:\.NET ITI\.net C#\Day 4\Lab 4\TryAll\SingleTon\obj\Debug\net5.0\ref\SingleTon.dll

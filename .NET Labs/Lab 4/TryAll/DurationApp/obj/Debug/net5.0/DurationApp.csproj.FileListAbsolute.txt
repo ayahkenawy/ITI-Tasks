@@ -1,0 +1,16 @@
+E:\.NET ITI\.net C#\Day 4\Lab 4\TryAll\DurationApp\bin\Debug\net5.0\DurationApp.exe
+E:\.NET ITI\.net C#\Day 4\Lab 4\TryAll\DurationApp\bin\Debug\net5.0\DurationApp.deps.json
+E:\.NET ITI\.net C#\Day 4\Lab 4\TryAll\DurationApp\bin\Debug\net5.0\DurationApp.runtimeconfig.json
+E:\.NET ITI\.net C#\Day 4\Lab 4\TryAll\DurationApp\bin\Debug\net5.0\DurationApp.runtimeconfig.dev.json
+E:\.NET ITI\.net C#\Day 4\Lab 4\TryAll\DurationApp\bin\Debug\net5.0\DurationApp.dll
+E:\.NET ITI\.net C#\Day 4\Lab 4\TryAll\DurationApp\bin\Debug\net5.0\DurationApp.pdb
+E:\.NET ITI\.net C#\Day 4\Lab 4\TryAll\DurationApp\obj\Debug\net5.0\DurationApp.csproj.AssemblyReference.cache
+E:\.NET ITI\.net C#\Day 4\Lab 4\TryAll\DurationApp\obj\Debug\net5.0\DurationApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\.NET ITI\.net C#\Day 4\Lab 4\TryAll\DurationApp\obj\Debug\net5.0\DurationApp.AssemblyInfoInputs.cache
+E:\.NET ITI\.net C#\Day 4\Lab 4\TryAll\DurationApp\obj\Debug\net5.0\DurationApp.AssemblyInfo.cs
+E:\.NET ITI\.net C#\Day 4\Lab 4\TryAll\DurationApp\obj\Debug\net5.0\DurationApp.csproj.CoreCompileInputs.cache
+E:\.NET ITI\.net C#\Day 4\Lab 4\TryAll\DurationApp\obj\Debug\net5.0\DurationApp.dll
+E:\.NET ITI\.net C#\Day 4\Lab 4\TryAll\DurationApp\obj\Debug\net5.0\refint\DurationApp.dll
+E:\.NET ITI\.net C#\Day 4\Lab 4\TryAll\DurationApp\obj\Debug\net5.0\DurationApp.pdb
+E:\.NET ITI\.net C#\Day 4\Lab 4\TryAll\DurationApp\obj\Debug\net5.0\DurationApp.genruntimeconfig.cache
+E:\.NET ITI\.net C#\Day 4\Lab 4\TryAll\DurationApp\obj\Debug\net5.0\ref\DurationApp.dll

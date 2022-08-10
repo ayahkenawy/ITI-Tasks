@@ -1,0 +1,16 @@
+E:\.NET ITI\.net C#\Day 4\Lab 4\TryAll\MathClass\bin\Debug\net5.0\MathClass.exe
+E:\.NET ITI\.net C#\Day 4\Lab 4\TryAll\MathClass\bin\Debug\net5.0\MathClass.deps.json
+E:\.NET ITI\.net C#\Day 4\Lab 4\TryAll\MathClass\bin\Debug\net5.0\MathClass.runtimeconfig.json
+E:\.NET ITI\.net C#\Day 4\Lab 4\TryAll\MathClass\bin\Debug\net5.0\MathClass.runtimeconfig.dev.json
+E:\.NET ITI\.net C#\Day 4\Lab 4\TryAll\MathClass\bin\Debug\net5.0\MathClass.dll
+E:\.NET ITI\.net C#\Day 4\Lab 4\TryAll\MathClass\bin\Debug\net5.0\MathClass.pdb
+E:\.NET ITI\.net C#\Day 4\Lab 4\TryAll\MathClass\obj\Debug\net5.0\MathClass.csproj.AssemblyReference.cache
+E:\.NET ITI\.net C#\Day 4\Lab 4\TryAll\MathClass\obj\Debug\net5.0\MathClass.GeneratedMSBuildEditorConfig.editorconfig
+E:\.NET ITI\.net C#\Day 4\Lab 4\TryAll\MathClass\obj\Debug\net5.0\MathClass.AssemblyInfoInputs.cache
+E:\.NET ITI\.net C#\Day 4\Lab 4\TryAll\MathClass\obj\Debug\net5.0\MathClass.AssemblyInfo.cs
+E:\.NET ITI\.net C#\Day 4\Lab 4\TryAll\MathClass\obj\Debug\net5.0\MathClass.csproj.CoreCompileInputs.cache
+E:\.NET ITI\.net C#\Day 4\Lab 4\TryAll\MathClass\obj\Debug\net5.0\MathClass.dll
+E:\.NET ITI\.net C#\Day 4\Lab 4\TryAll\MathClass\obj\Debug\net5.0\refint\MathClass.dll
+E:\.NET ITI\.net C#\Day 4\Lab 4\TryAll\MathClass\obj\Debug\net5.0\MathClass.pdb
+E:\.NET ITI\.net C#\Day 4\Lab 4\TryAll\MathClass\obj\Debug\net5.0\MathClass.genruntimeconfig.cache
+E:\.NET ITI\.net C#\Day 4\Lab 4\TryAll\MathClass\obj\Debug\net5.0\ref\MathClass.dll
