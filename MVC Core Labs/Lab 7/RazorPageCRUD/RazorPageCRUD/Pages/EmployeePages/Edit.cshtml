@@ -1,0 +1,29 @@
+﻿@page "{Id}"
+@model RazorPageCRUD.Pages.EmployeePages.EditModel
+@{
+    ViewData["Title"] = "Edit";
+}
+<form method="post">
+    <input asp-for="Employee.Id" type="hidden" />
+    <div class="form-group">
+        <label asp-for="Employee.Name" class="form-label"></label>
+        <input  asp-for="Employee.Name" class="form-control"/>
+        <span asp-validation-for="Employee.Name" class="text-danger"></span>
+    </div>
+        <div class="form-group">
+        <label asp-for="Employee.Age" class="form-label"></label>
+        <input  asp-for="Employee.Age" class="form-control"/>
+        <span asp-validation-for="Employee.Age" class="text-danger"></span>
+    </div>
+        <div class="form-group">
+        <label asp-for="Employee.Address" class="form-label"></label>
+        <input  asp-for="Employee.Address" class="form-control"/>
+        <span asp-validation-for="Employee.Address" class="text-danger"></span>
+    </div>
+        <div class="form-group">
+        <label asp-for="Employee.DeptId" class="form-label"></label>
+        <select  asp-for="Employee.DeptId" class="form-select" asp-items="@ViewBag.depts as SelectList"></select>
+        <span asp-validation-for="Employee.DeptId" class="text-danger"></span>
+    </div>
+    <input type="submit" value="Submit" />
+</form>

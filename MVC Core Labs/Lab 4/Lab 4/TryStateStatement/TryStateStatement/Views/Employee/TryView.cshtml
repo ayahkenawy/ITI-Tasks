@@ -1,0 +1,87 @@
+﻿
+@{
+    ViewData["Title"] = "TryView";
+    var Emps = ViewBag.Emp as List<Employee>;
+    var EmpsViewData = ViewData["Emp"] as List<Employee>;
+    var EmpTempData = new List<Employee>();
+    if (TempData.ContainsKey("Emp"))  
+    {  
+        EmpTempData = TempData["Emp"] as List<Employee>;  
+    }  
+     
+}
+
+<h1>Try ViewBag</h1>
+
+<table class="table table-bordered table-striped table-hover table-dark">
+    <tr>
+        <th>Id</th>
+        <th>name</th>
+        <th>age</th>
+        <th>address</th>
+        <th>Salary</th>
+        <th>Department Name</th>
+    </tr>
+    @foreach (var item in Emps)
+    {
+        <tr>
+            <td>@item.Id</td>
+            <td>@item.Name</td>
+            <td>@item.Age</td>
+            <td>@item.Address</td>
+            <td>@item.Salary</td>
+            <td>@item.Department.DeptName</td>
+        </tr>
+    }
+
+</table>
+
+<h1>Try ViewData</h1>
+
+<table class="table table-bordered table-striped table-hover table-dark">
+    <tr>
+        <th>Id</th>
+        <th>name</th>
+        <th>age</th>
+        <th>address</th>
+        <th>Salary</th>
+        <th>Department Name</th>
+    </tr>
+    @foreach (var item in EmpsViewData)
+    {
+        <tr>
+            <td>@item.Id</td>
+            <td>@item.Name</td>
+            <td>@item.Age</td>
+            <td>@item.Address</td>
+             <td>@item.Salary</td>
+            <td>@item.Department.DeptName</td>
+        </tr>
+    }
+
+</table>
+
+<h1>Try TempData</h1>
+
+<table class="table table-bordered table-striped table-hover table-dark">
+    <tr>
+        <th>Id</th>
+        <th>name</th>
+        <th>age</th>
+        <th>address</th>
+        <th>Salary</th>
+        <th>Department Name</th>
+    </tr>
+    @foreach (var item in EmpTempData)
+    {
+        <tr>
+            <td>@item.Id</td>
+            <td>@item.Name</td>
+            <td>@item.Age</td>
+            <td>@item.Address</td>
+             <td>@item.Salary</td>
+            <td>@item.Department.DeptName</td>
+        </tr>
+    }
+
+</table>

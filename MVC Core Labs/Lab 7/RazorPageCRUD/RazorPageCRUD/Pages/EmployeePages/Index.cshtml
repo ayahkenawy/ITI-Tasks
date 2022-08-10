@@ -1,0 +1,36 @@
+﻿@page
+@model RazorPageCRUD.Pages.EmployeePages.IndexModel
+@{
+    ViewData["Title"] = "Index";
+}
+<a asp-page="/EmployeePages/Create" class="btn btn-success">Create New</a>
+
+<br />
+<br />
+<br />
+<table class="table table-hover table-bordered table-striped">
+
+    <tr>
+        <th> @Html.DisplayNameFor(ww=>ww.Employees[0].Id)</th>
+        <th> @Html.DisplayNameFor(ww=>ww.Employees[0].Name)</th>
+        <th> @Html.DisplayNameFor(ww=>ww.Employees[0].Age)</th>
+        <th> @Html.DisplayNameFor(ww=>ww.Employees[0].Address)</th>
+        <th> @Html.DisplayNameFor(ww=>ww.Employees[0].Department.DeptName)</th>
+        <th></th>
+    </tr>
+    @foreach (var item in Model.Employees)
+    {
+        <tr>
+            <td>@Html.DisplayFor(ww=>item.Id)</td>
+            <td>@Html.DisplayFor(ww=>item.Name)</td>
+            <td>@Html.DisplayFor(ww=>item.Age)</td>
+            <td>@Html.DisplayFor(ww=>item.Address)</td>
+            <td>@Html.DisplayFor(ww=>item.Department.DeptName)</td>
+            <td>
+                <a asp-page="/employeePages/Edit" asp-route-id="@item.Id" class="btn btn-success">edit</a> |
+                <a asp-page="/employeePages/Details" asp-route-id="@item.Id" class="btn btn-secondary">Details</a> |
+                <a asp-page-handler="Delete" asp-route-id="@item.Id" class="btn btn-danger" onclick="return confirm('r u sure delete @item.Name')">Delete</a>
+            </td>
+        </tr>
+    }
+</table>

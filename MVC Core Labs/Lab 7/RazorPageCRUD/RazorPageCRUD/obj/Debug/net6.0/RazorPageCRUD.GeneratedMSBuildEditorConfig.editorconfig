@@ -1,0 +1,40 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = RazorPageCRUD
+build_property.RootNamespace = RazorPageCRUD
+build_property.ProjectDir = E:\.NET ITI\MVC Core\Day 7\Lab 7\RazorPageCRUD\RazorPageCRUD\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = E:\.NET ITI\MVC Core\Day 7\Lab 7\RazorPageCRUD\RazorPageCRUD
+build_property._RazorSourceGeneratorDebug = 
+
+[E:/.NET ITI/MVC Core/Day 7/Lab 7/RazorPageCRUD/RazorPageCRUD/Pages/EmployeePages/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRW1wbG95ZWVQYWdlc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/.NET ITI/MVC Core/Day 7/Lab 7/RazorPageCRUD/RazorPageCRUD/Pages/EmployeePages/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRW1wbG95ZWVQYWdlc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/.NET ITI/MVC Core/Day 7/Lab 7/RazorPageCRUD/RazorPageCRUD/Pages/EmployeePages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRW1wbG95ZWVQYWdlc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/.NET ITI/MVC Core/Day 7/Lab 7/RazorPageCRUD/RazorPageCRUD/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/.NET ITI/MVC Core/Day 7/Lab 7/RazorPageCRUD/RazorPageCRUD/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/.NET ITI/MVC Core/Day 7/Lab 7/RazorPageCRUD/RazorPageCRUD/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

@@ -1,0 +1,24 @@
+﻿@model IEnumerable<Employee>
+@{
+    ViewData["Title"] = "Index";
+}
+<a asp-action="Create" asp-controller="Employee" class="btn btn-primary">Create</a>
+<table>
+    <tr>
+        <th>@Html.DisplayNameFor(ww=>ww.Name)</th>
+        <th>@Html.DisplayNameFor(ww=>ww.Address)</th>
+        <th>@Html.DisplayNameFor(ww=>ww.Department.DeptName)</th>
+        <th></th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@Html.DisplayFor(ww=>item.Name)</td>
+            <td>@Html.DisplayFor(ww=>item.Address)</td>
+            <td>@Html.DisplayFor(ww=>item.Department.DeptName)</td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Id" asp-route-name="@item.Name" class="btn btn-success">Edit</a>
+            </td>
+        </tr>
+    }
+</table>

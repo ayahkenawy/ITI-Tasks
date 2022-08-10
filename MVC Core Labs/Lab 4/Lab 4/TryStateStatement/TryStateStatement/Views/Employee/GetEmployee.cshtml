@@ -1,0 +1,25 @@
+﻿@model Employee
+@{
+    ViewData["Title"] = "GetEmployee";
+}
+
+<h1>Get Employee</h1>
+
+<table class="table table-bordered table-hover table-striped">
+    <tr>
+        <th>ID</th>
+        <th>Name</th>
+        <th>Address</th>
+        <th>Age</th>
+        <th>Salary</th>
+        <th>Department Name</th>
+    </tr>
+       <tr>
+           <td>@Model.Id</td>
+           <td>@Model.Name</td>
+           <td>@Model.Address</td>
+           <td>@Model.Age</td>
+           <td>@Model.Salary</td>
+           <td>@Model.Department.DeptName</td>
+       </tr>
+</table>
