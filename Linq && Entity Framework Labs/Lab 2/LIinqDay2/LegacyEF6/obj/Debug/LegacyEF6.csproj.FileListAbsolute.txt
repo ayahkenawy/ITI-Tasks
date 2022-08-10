@@ -1,0 +1,13 @@
+E:\.NET ITI\Linq && Entity Framework\Day 2\Lab 2\LIinqDay2\LegacyEF6\bin\Debug\LegacyEF6.exe.config
+E:\.NET ITI\Linq && Entity Framework\Day 2\Lab 2\LIinqDay2\LegacyEF6\bin\Debug\LegacyEF6.exe
+E:\.NET ITI\Linq && Entity Framework\Day 2\Lab 2\LIinqDay2\LegacyEF6\bin\Debug\LegacyEF6.pdb
+E:\.NET ITI\Linq && Entity Framework\Day 2\Lab 2\LIinqDay2\LegacyEF6\bin\Debug\EntityFramework.dll
+E:\.NET ITI\Linq && Entity Framework\Day 2\Lab 2\LIinqDay2\LegacyEF6\bin\Debug\EntityFramework.SqlServer.dll
+E:\.NET ITI\Linq && Entity Framework\Day 2\Lab 2\LIinqDay2\LegacyEF6\bin\Debug\EntityFramework.xml
+E:\.NET ITI\Linq && Entity Framework\Day 2\Lab 2\LIinqDay2\LegacyEF6\bin\Debug\EntityFramework.SqlServer.xml
+E:\.NET ITI\Linq && Entity Framework\Day 2\Lab 2\LIinqDay2\LegacyEF6\obj\Debug\LegacyEF6.csproj.AssemblyReference.cache
+E:\.NET ITI\Linq && Entity Framework\Day 2\Lab 2\LIinqDay2\LegacyEF6\obj\Debug\LegacyEF6.csproj.SuggestedBindingRedirects.cache
+E:\.NET ITI\Linq && Entity Framework\Day 2\Lab 2\LIinqDay2\LegacyEF6\obj\Debug\LegacyEF6.csproj.CoreCompileInputs.cache
+E:\.NET ITI\Linq && Entity Framework\Day 2\Lab 2\LIinqDay2\LegacyEF6\obj\Debug\LegacyEF6.csproj.CopyComplete
+E:\.NET ITI\Linq && Entity Framework\Day 2\Lab 2\LIinqDay2\LegacyEF6\obj\Debug\LegacyEF6.exe
+E:\.NET ITI\Linq && Entity Framework\Day 2\Lab 2\LIinqDay2\LegacyEF6\obj\Debug\LegacyEF6.pdb

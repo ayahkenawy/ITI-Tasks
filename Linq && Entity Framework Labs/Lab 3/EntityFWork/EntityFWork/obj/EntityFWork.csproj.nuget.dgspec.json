@@ -1,0 +1,68 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\.NET ITI\\Linq && Entity Framework\\Day 3\\Lab 3\\EntityFWork\\EntityFWork\\EntityFWork.csproj": {}
+  },
+  "projects": {
+    "E:\\.NET ITI\\Linq && Entity Framework\\Day 3\\Lab 3\\EntityFWork\\EntityFWork\\EntityFWork.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\.NET ITI\\Linq && Entity Framework\\Day 3\\Lab 3\\EntityFWork\\EntityFWork\\EntityFWork.csproj",
+        "projectName": "EntityFWork",
+        "projectPath": "E:\\.NET ITI\\Linq && Entity Framework\\Day 3\\Lab 3\\EntityFWork\\EntityFWork\\EntityFWork.csproj",
+        "packagesPath": "C:\\Users\\Ayah Kenawy\\.nuget\\packages\\",
+        "outputPath": "E:\\.NET ITI\\Linq && Entity Framework\\Day 3\\Lab 3\\EntityFWork\\EntityFWork\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Progress\\ToolboxNuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Ayah Kenawy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Telerik UI for WPF.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

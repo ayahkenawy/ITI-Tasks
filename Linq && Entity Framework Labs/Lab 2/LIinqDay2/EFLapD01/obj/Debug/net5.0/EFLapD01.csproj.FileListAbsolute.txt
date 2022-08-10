@@ -1,0 +1,134 @@
+G:\iti\lec\7.LINQ\LAP\LIinqDay2\EFLapD01\bin\Debug\net5.0\EFLapD01.exe
+G:\iti\lec\7.LINQ\LAP\LIinqDay2\EFLapD01\bin\Debug\net5.0\EFLapD01.deps.json
+G:\iti\lec\7.LINQ\LAP\LIinqDay2\EFLapD01\bin\Debug\net5.0\EFLapD01.runtimeconfig.json
+G:\iti\lec\7.LINQ\LAP\LIinqDay2\EFLapD01\bin\Debug\net5.0\EFLapD01.runtimeconfig.dev.json
+G:\iti\lec\7.LINQ\LAP\LIinqDay2\EFLapD01\bin\Debug\net5.0\EFLapD01.dll
+G:\iti\lec\7.LINQ\LAP\LIinqDay2\EFLapD01\bin\Debug\net5.0\EFLapD01.pdb
+G:\iti\lec\7.LINQ\LAP\LIinqDay2\EFLapD01\bin\Debug\net5.0\Castle.Core.dll
+G:\iti\lec\7.LINQ\LAP\LIinqDay2\EFLapD01\bin\Debug\net5.0\Humanizer.dll
+G:\iti\lec\7.LINQ\LAP\LIinqDay2\EFLapD01\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+G:\iti\lec\7.LINQ\LAP\LIinqDay2\EFLapD01\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+G:\iti\lec\7.LINQ\LAP\LIinqDay2\EFLapD01\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\iti\lec\7.LINQ\LAP\LIinqDay2\EFLapD01\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\iti\lec\7.LINQ\LAP\LIinqDay2\EFLapD01\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Proxies.dll
+G:\iti\lec\7.LINQ\LAP\LIinqDay2\EFLapD01\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\iti\lec\7.LINQ\LAP\LIinqDay2\EFLapD01\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\iti\lec\7.LINQ\LAP\LIinqDay2\EFLapD01\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+G:\iti\lec\7.LINQ\LAP\LIinqDay2\EFLapD01\bin\Debug\net5.0\Microsoft.Extensions.Caching.Memory.dll
+G:\iti\lec\7.LINQ\LAP\LIinqDay2\EFLapD01\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\iti\lec\7.LINQ\LAP\LIinqDay2\EFLapD01\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+G:\iti\lec\7.LINQ\LAP\LIinqDay2\EFLapD01\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\iti\lec\7.LINQ\LAP\LIinqDay2\EFLapD01\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+G:\iti\lec\7.LINQ\LAP\LIinqDay2\EFLapD01\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+G:\iti\lec\7.LINQ\LAP\LIinqDay2\EFLapD01\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+G:\iti\lec\7.LINQ\LAP\LIinqDay2\EFLapD01\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+G:\iti\lec\7.LINQ\LAP\LIinqDay2\EFLapD01\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+G:\iti\lec\7.LINQ\LAP\LIinqDay2\EFLapD01\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\iti\lec\7.LINQ\LAP\LIinqDay2\EFLapD01\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+G:\iti\lec\7.LINQ\LAP\LIinqDay2\EFLapD01\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+G:\iti\lec\7.LINQ\LAP\LIinqDay2\EFLapD01\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\iti\lec\7.LINQ\LAP\LIinqDay2\EFLapD01\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+G:\iti\lec\7.LINQ\LAP\LIinqDay2\EFLapD01\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+G:\iti\lec\7.LINQ\LAP\LIinqDay2\EFLapD01\bin\Debug\net5.0\Newtonsoft.Json.dll
+G:\iti\lec\7.LINQ\LAP\LIinqDay2\EFLapD01\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+G:\iti\lec\7.LINQ\LAP\LIinqDay2\EFLapD01\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+G:\iti\lec\7.LINQ\LAP\LIinqDay2\EFLapD01\bin\Debug\net5.0\System.Drawing.Common.dll
+G:\iti\lec\7.LINQ\LAP\LIinqDay2\EFLapD01\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+G:\iti\lec\7.LINQ\LAP\LIinqDay2\EFLapD01\bin\Debug\net5.0\System.Runtime.Caching.dll
+G:\iti\lec\7.LINQ\LAP\LIinqDay2\EFLapD01\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+G:\iti\lec\7.LINQ\LAP\LIinqDay2\EFLapD01\bin\Debug\net5.0\System.Security.Permissions.dll
+G:\iti\lec\7.LINQ\LAP\LIinqDay2\EFLapD01\bin\Debug\net5.0\System.Windows.Extensions.dll
+G:\iti\lec\7.LINQ\LAP\LIinqDay2\EFLapD01\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\iti\lec\7.LINQ\LAP\LIinqDay2\EFLapD01\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\iti\lec\7.LINQ\LAP\LIinqDay2\EFLapD01\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\iti\lec\7.LINQ\LAP\LIinqDay2\EFLapD01\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\iti\lec\7.LINQ\LAP\LIinqDay2\EFLapD01\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\iti\lec\7.LINQ\LAP\LIinqDay2\EFLapD01\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\iti\lec\7.LINQ\LAP\LIinqDay2\EFLapD01\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\iti\lec\7.LINQ\LAP\LIinqDay2\EFLapD01\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\iti\lec\7.LINQ\LAP\LIinqDay2\EFLapD01\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\iti\lec\7.LINQ\LAP\LIinqDay2\EFLapD01\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\iti\lec\7.LINQ\LAP\LIinqDay2\EFLapD01\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+G:\iti\lec\7.LINQ\LAP\LIinqDay2\EFLapD01\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\iti\lec\7.LINQ\LAP\LIinqDay2\EFLapD01\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\iti\lec\7.LINQ\LAP\LIinqDay2\EFLapD01\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+G:\iti\lec\7.LINQ\LAP\LIinqDay2\EFLapD01\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\iti\lec\7.LINQ\LAP\LIinqDay2\EFLapD01\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+G:\iti\lec\7.LINQ\LAP\LIinqDay2\EFLapD01\obj\Debug\net5.0\EFLapD01.csproj.AssemblyReference.cache
+G:\iti\lec\7.LINQ\LAP\LIinqDay2\EFLapD01\obj\Debug\net5.0\EFLapD01.GeneratedMSBuildEditorConfig.editorconfig
+G:\iti\lec\7.LINQ\LAP\LIinqDay2\EFLapD01\obj\Debug\net5.0\EFLapD01.AssemblyInfoInputs.cache
+G:\iti\lec\7.LINQ\LAP\LIinqDay2\EFLapD01\obj\Debug\net5.0\EFLapD01.AssemblyInfo.cs
+G:\iti\lec\7.LINQ\LAP\LIinqDay2\EFLapD01\obj\Debug\net5.0\EFLapD01.csproj.CoreCompileInputs.cache
+G:\iti\lec\7.LINQ\LAP\LIinqDay2\EFLapD01\obj\Debug\net5.0\EFLapD01.csproj.CopyComplete
+G:\iti\lec\7.LINQ\LAP\LIinqDay2\EFLapD01\obj\Debug\net5.0\EFLapD01.dll
+G:\iti\lec\7.LINQ\LAP\LIinqDay2\EFLapD01\obj\Debug\net5.0\refint\EFLapD01.dll
+G:\iti\lec\7.LINQ\LAP\LIinqDay2\EFLapD01\obj\Debug\net5.0\EFLapD01.pdb
+G:\iti\lec\7.LINQ\LAP\LIinqDay2\EFLapD01\obj\Debug\net5.0\EFLapD01.genruntimeconfig.cache
+G:\iti\lec\7.LINQ\LAP\LIinqDay2\EFLapD01\obj\Debug\net5.0\ref\EFLapD01.dll
+E:\.NET ITI\Linq && Entity Framework\Day 2\Lab 2\LIinqDay2\EFLapD01\bin\Debug\net5.0\EFLapD01.exe
+E:\.NET ITI\Linq && Entity Framework\Day 2\Lab 2\LIinqDay2\EFLapD01\bin\Debug\net5.0\EFLapD01.deps.json
+E:\.NET ITI\Linq && Entity Framework\Day 2\Lab 2\LIinqDay2\EFLapD01\bin\Debug\net5.0\EFLapD01.runtimeconfig.json
+E:\.NET ITI\Linq && Entity Framework\Day 2\Lab 2\LIinqDay2\EFLapD01\bin\Debug\net5.0\EFLapD01.runtimeconfig.dev.json
+E:\.NET ITI\Linq && Entity Framework\Day 2\Lab 2\LIinqDay2\EFLapD01\bin\Debug\net5.0\EFLapD01.dll
+E:\.NET ITI\Linq && Entity Framework\Day 2\Lab 2\LIinqDay2\EFLapD01\bin\Debug\net5.0\EFLapD01.pdb
+E:\.NET ITI\Linq && Entity Framework\Day 2\Lab 2\LIinqDay2\EFLapD01\bin\Debug\net5.0\Castle.Core.dll
+E:\.NET ITI\Linq && Entity Framework\Day 2\Lab 2\LIinqDay2\EFLapD01\bin\Debug\net5.0\Humanizer.dll
+E:\.NET ITI\Linq && Entity Framework\Day 2\Lab 2\LIinqDay2\EFLapD01\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\.NET ITI\Linq && Entity Framework\Day 2\Lab 2\LIinqDay2\EFLapD01\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\.NET ITI\Linq && Entity Framework\Day 2\Lab 2\LIinqDay2\EFLapD01\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\.NET ITI\Linq && Entity Framework\Day 2\Lab 2\LIinqDay2\EFLapD01\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\.NET ITI\Linq && Entity Framework\Day 2\Lab 2\LIinqDay2\EFLapD01\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Proxies.dll
+E:\.NET ITI\Linq && Entity Framework\Day 2\Lab 2\LIinqDay2\EFLapD01\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\.NET ITI\Linq && Entity Framework\Day 2\Lab 2\LIinqDay2\EFLapD01\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\.NET ITI\Linq && Entity Framework\Day 2\Lab 2\LIinqDay2\EFLapD01\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\.NET ITI\Linq && Entity Framework\Day 2\Lab 2\LIinqDay2\EFLapD01\bin\Debug\net5.0\Microsoft.Extensions.Caching.Memory.dll
+E:\.NET ITI\Linq && Entity Framework\Day 2\Lab 2\LIinqDay2\EFLapD01\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\.NET ITI\Linq && Entity Framework\Day 2\Lab 2\LIinqDay2\EFLapD01\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\.NET ITI\Linq && Entity Framework\Day 2\Lab 2\LIinqDay2\EFLapD01\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\.NET ITI\Linq && Entity Framework\Day 2\Lab 2\LIinqDay2\EFLapD01\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+E:\.NET ITI\Linq && Entity Framework\Day 2\Lab 2\LIinqDay2\EFLapD01\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\.NET ITI\Linq && Entity Framework\Day 2\Lab 2\LIinqDay2\EFLapD01\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+E:\.NET ITI\Linq && Entity Framework\Day 2\Lab 2\LIinqDay2\EFLapD01\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+E:\.NET ITI\Linq && Entity Framework\Day 2\Lab 2\LIinqDay2\EFLapD01\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\.NET ITI\Linq && Entity Framework\Day 2\Lab 2\LIinqDay2\EFLapD01\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\.NET ITI\Linq && Entity Framework\Day 2\Lab 2\LIinqDay2\EFLapD01\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\.NET ITI\Linq && Entity Framework\Day 2\Lab 2\LIinqDay2\EFLapD01\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\.NET ITI\Linq && Entity Framework\Day 2\Lab 2\LIinqDay2\EFLapD01\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\.NET ITI\Linq && Entity Framework\Day 2\Lab 2\LIinqDay2\EFLapD01\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\.NET ITI\Linq && Entity Framework\Day 2\Lab 2\LIinqDay2\EFLapD01\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+E:\.NET ITI\Linq && Entity Framework\Day 2\Lab 2\LIinqDay2\EFLapD01\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\.NET ITI\Linq && Entity Framework\Day 2\Lab 2\LIinqDay2\EFLapD01\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\.NET ITI\Linq && Entity Framework\Day 2\Lab 2\LIinqDay2\EFLapD01\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\.NET ITI\Linq && Entity Framework\Day 2\Lab 2\LIinqDay2\EFLapD01\bin\Debug\net5.0\System.Drawing.Common.dll
+E:\.NET ITI\Linq && Entity Framework\Day 2\Lab 2\LIinqDay2\EFLapD01\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\.NET ITI\Linq && Entity Framework\Day 2\Lab 2\LIinqDay2\EFLapD01\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\.NET ITI\Linq && Entity Framework\Day 2\Lab 2\LIinqDay2\EFLapD01\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\.NET ITI\Linq && Entity Framework\Day 2\Lab 2\LIinqDay2\EFLapD01\bin\Debug\net5.0\System.Security.Permissions.dll
+E:\.NET ITI\Linq && Entity Framework\Day 2\Lab 2\LIinqDay2\EFLapD01\bin\Debug\net5.0\System.Windows.Extensions.dll
+E:\.NET ITI\Linq && Entity Framework\Day 2\Lab 2\LIinqDay2\EFLapD01\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\.NET ITI\Linq && Entity Framework\Day 2\Lab 2\LIinqDay2\EFLapD01\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\.NET ITI\Linq && Entity Framework\Day 2\Lab 2\LIinqDay2\EFLapD01\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\.NET ITI\Linq && Entity Framework\Day 2\Lab 2\LIinqDay2\EFLapD01\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\.NET ITI\Linq && Entity Framework\Day 2\Lab 2\LIinqDay2\EFLapD01\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\.NET ITI\Linq && Entity Framework\Day 2\Lab 2\LIinqDay2\EFLapD01\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\.NET ITI\Linq && Entity Framework\Day 2\Lab 2\LIinqDay2\EFLapD01\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\.NET ITI\Linq && Entity Framework\Day 2\Lab 2\LIinqDay2\EFLapD01\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\.NET ITI\Linq && Entity Framework\Day 2\Lab 2\LIinqDay2\EFLapD01\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\.NET ITI\Linq && Entity Framework\Day 2\Lab 2\LIinqDay2\EFLapD01\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\.NET ITI\Linq && Entity Framework\Day 2\Lab 2\LIinqDay2\EFLapD01\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\.NET ITI\Linq && Entity Framework\Day 2\Lab 2\LIinqDay2\EFLapD01\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\.NET ITI\Linq && Entity Framework\Day 2\Lab 2\LIinqDay2\EFLapD01\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\.NET ITI\Linq && Entity Framework\Day 2\Lab 2\LIinqDay2\EFLapD01\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\.NET ITI\Linq && Entity Framework\Day 2\Lab 2\LIinqDay2\EFLapD01\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\.NET ITI\Linq && Entity Framework\Day 2\Lab 2\LIinqDay2\EFLapD01\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\.NET ITI\Linq && Entity Framework\Day 2\Lab 2\LIinqDay2\EFLapD01\obj\Debug\net5.0\EFLapD01.csproj.AssemblyReference.cache
+E:\.NET ITI\Linq && Entity Framework\Day 2\Lab 2\LIinqDay2\EFLapD01\obj\Debug\net5.0\EFLapD01.GeneratedMSBuildEditorConfig.editorconfig
+E:\.NET ITI\Linq && Entity Framework\Day 2\Lab 2\LIinqDay2\EFLapD01\obj\Debug\net5.0\EFLapD01.AssemblyInfoInputs.cache
+E:\.NET ITI\Linq && Entity Framework\Day 2\Lab 2\LIinqDay2\EFLapD01\obj\Debug\net5.0\EFLapD01.AssemblyInfo.cs
+E:\.NET ITI\Linq && Entity Framework\Day 2\Lab 2\LIinqDay2\EFLapD01\obj\Debug\net5.0\EFLapD01.csproj.CoreCompileInputs.cache
+E:\.NET ITI\Linq && Entity Framework\Day 2\Lab 2\LIinqDay2\EFLapD01\obj\Debug\net5.0\EFLapD01.csproj.CopyComplete
+E:\.NET ITI\Linq && Entity Framework\Day 2\Lab 2\LIinqDay2\EFLapD01\obj\Debug\net5.0\EFLapD01.dll
+E:\.NET ITI\Linq && Entity Framework\Day 2\Lab 2\LIinqDay2\EFLapD01\obj\Debug\net5.0\refint\EFLapD01.dll
+E:\.NET ITI\Linq && Entity Framework\Day 2\Lab 2\LIinqDay2\EFLapD01\obj\Debug\net5.0\EFLapD01.pdb
+E:\.NET ITI\Linq && Entity Framework\Day 2\Lab 2\LIinqDay2\EFLapD01\obj\Debug\net5.0\EFLapD01.genruntimeconfig.cache
+E:\.NET ITI\Linq && Entity Framework\Day 2\Lab 2\LIinqDay2\EFLapD01\obj\Debug\net5.0\ref\EFLapD01.dll

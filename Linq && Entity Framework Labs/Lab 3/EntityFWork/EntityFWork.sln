@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32414.318
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EntityFWorkD3", "EntityFWorkD3\EntityFWorkD3.csproj", "{64E8FC61-C603-4500-96D6-FCBECE749767}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatabaseCreation", "DatabaseCreation\DatabaseCreation.csproj", "{2E5D804C-218F-4274-B70A-FD7CC7C485DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64E8FC61-C603-4500-96D6-FCBECE749767}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64E8FC61-C603-4500-96D6-FCBECE749767}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64E8FC61-C603-4500-96D6-FCBECE749767}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64E8FC61-C603-4500-96D6-FCBECE749767}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E5D804C-218F-4274-B70A-FD7CC7C485DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E5D804C-218F-4274-B70A-FD7CC7C485DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E5D804C-218F-4274-B70A-FD7CC7C485DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E5D804C-218F-4274-B70A-FD7CC7C485DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5CE60EB0-6C8C-4BB5-AAB8-0A261E78C7E5}
+	EndGlobalSection
+EndGlobal
