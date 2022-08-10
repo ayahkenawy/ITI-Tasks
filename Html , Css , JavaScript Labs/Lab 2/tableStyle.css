@@ -1,0 +1,33 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+table{
+    text-align: center;
+    margin: auto;
+    border: 3px solid black;
+    margin-top: 10px;
+    width: 500px;
+    height: 300px;
+    border-collapse: collapse;
+}
+thead tr{
+    color: white;
+    background-color: darkcyan;
+    height: 50px;
+    border-bottom: 3px solid black;
+}
+a{
+    color: gray;
+    font-size: medium;
+}
+tr td span{
+    color: gray;
+    font-size: medium;
+}
+tr{
+    border:3px solid black; ;
+}
+td{
+    border:3px solid black; 
+}

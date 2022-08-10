@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form Validation</title>
+    <style>
+        div{
+            margin: 20px;
+        }
+        body{
+            background-color: rgb(220, 197, 29);
+        }
+        form{
+            border: 5px solid gray;
+            width: 35%;
+            margin: auto
+        }
+        table{
+            border: 5px solid gray;
+            width: 40%;
+            border-collapse: collapse;
+            margin: auto;
+            display: none;
+        }
+        tr ,td ,th{
+            border:3px solid gray ;
+            text-align: center;
+        }
+        span{
+            color:red;
+        }
+    </style>
+</head>
+<body>
+    <div >
+        <form action="" method="">
+            <div>
+                <div>
+                    Name : <input type="text"><span></span>
+                </div>
+                <div>
+                    Age : <input type="text"><span></span>
+                </div>
+                <div>
+                    Email : <input type="text"><span></span>
+                </div>
+                <div>
+                    <input type="submit" value="Submit">
+                    <input type="reset" value="Reset" onclick="reset()">
+                </div>
+            </div>
+        </form>
+    </div>
+    <div>
+        <table >
+            <thead>
+                <tr>
+                    <th>Name</th>
+                    <th>Age</th>
+                    <th>Email</th>
+                </tr>
+            </thead>
+            <tbody>
+            </tbody>
+        </table>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>

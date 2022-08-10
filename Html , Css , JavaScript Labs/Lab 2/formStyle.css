@@ -1,0 +1,79 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10%;
+    text-align: center;
+    background-color: black;
+    
+  
+
+}
+.container{
+    width: 30%;
+    background-color: white;
+    padding: 20px;
+}
+
+.input {
+    display: block;
+    margin: 5%;
+    width: 90%;
+    height: 30px;
+}
+
+p {
+    text-align: center;
+}
+
+i {
+    margin: 2%;
+
+}
+
+.link {
+    color: rgb(81, 255, 255);
+    text-decoration: none;
+}
+
+input[type="button"] {
+    background-color: rgb(27, 27, 179);
+    color: white;
+}
+
+.facebook {
+    background-color: rgb(27, 27, 179);
+    color: white;
+    padding: 5px;
+    margin: 5%;
+   
+}
+
+.twitter {
+    background-color: rgb(81, 255, 255);
+    color: white;
+    padding: 5px;
+    height: 20px;
+  
+}
+.signin span{
+    font-size: small;
+    padding: 10px;
+}
+.or{
+    /* border: solid gray; */
+    text-align: center;
+    margin-top: 20px;
+    border-radius: 15px ;
+    background-color: gray;
+    color: black;
+    padding: 5px
+}
+.social{
+    margin-bottom: 11px;
+}

@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Task_1</title>
+    <style>
+        .container {
+                    max-width:300px;
+                    position: relative;
+                   }
+                   
+        img{
+            width:300px;
+            height: 200px;
+            position: absolute;
+            margin-top: 50px;
+           }
+        </style>
+</head>
+<body>
+    <h1>
+        Showing Pics
+    </h1>
+    <hr>
+    <button onclick="nextPrevSlide(1)">next</button>
+    <button onclick="nextPrevSlide(-1)">Pervious</button>
+    <button onclick="carousel()">SlideShow</button>
+    <button onclick="stop()">stop</button>
+    <br>
+    <div class="container">
+
+        <div class="img-slide">
+          <img src="SlideShow/1.jpg"style="width:100%">
+        </div>
+        <div class="img-slide">
+          <img src="SlideShow/2.jpg"style="width:100%">
+        </div>
+        <div class="img-slide">
+          <img src="SlideShow/3.jpg"style="width:100%">
+        </div>
+        <div class="img-slide">
+          <img src="SlideShow/4.jpg"style="width:100%">
+        </div>
+        <div class="img-slide">
+          <img src="SlideShow/5.jpg"style="width:100%">
+        </div>
+        <div class="img-slide">
+          <img src="SlideShow/6.jpg"style="width:100%">
+        </div>
+        
+        
+        </div>
+
+    <script src="script_1.js"></script>
+</body>
+</html>

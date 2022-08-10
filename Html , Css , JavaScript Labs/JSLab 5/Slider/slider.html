@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Slider</title>
+    <style>
+        img{
+            width: 100px;
+            height: 100px;
+            display: none;
+        }
+        div{
+            margin: 10px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Showing Pics</h1>
+    <div>
+        <button onclick="next()">Next</button>
+        <button onclick="show()">Show Slide</button>
+        <button onclick="stop()">Stop</button>
+        <button onclick="prev()">Previous</button>
+    </div>
+    <div>
+        <img  src="imgs/1.jpg">
+        <img  src="imgs/2.jpg">
+        <img  src="imgs/3.jpg">
+        <img  src="imgs/4.jpg">
+        <img  src="imgs/5.jpg">
+        <img  src="imgs/6.jpg">
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sign in Page</title>
+    <style>
+        div{
+            margin: 20px;
+        }
+        form{
+            border: 5px solid gray;
+            width: 35%;
+            margin: auto;
+            background-color: gray;
+        }
+        span{
+            color:red;
+        }
+    </style>
+</head>
+<body>
+    <div >
+        <form action="welcomingPage.html" method="get" >
+        <!-- onsubmit="return validation()" -->
+            <div>
+                <div>
+                    Name : <input type="text" name="name"><span></span>
+                </div>
+                <div>
+                    Password : <input type="text" name="password"><span></span>
+                </div>
+                <div>
+                    Email : <input type="text" name="email"><span></span>
+                </div>
+                <div>
+                    Job Title : <input type="text" name="jobtitle"><span></span>
+                </div>
+                <div>
+                    Mobile : <input type="text" name="mobile"><span></span>
+                </div>
+                <div>
+                    Address : <input type="text" name="address"><span></span>
+                </div>
+                <div>
+                    Gender : <select name="gender">
+                        <option value="male">Male</option>
+                        <option value="female">Female</option>
+                    </select><span></span>
+                </div>
+                <div>
+                    <input type="submit" value="Submit">
+                </div>
+            </div>
+        </form>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>

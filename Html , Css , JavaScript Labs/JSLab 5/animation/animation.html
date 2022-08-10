@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Animation</title>
+    <style>
+        div {
+            margin: auto;
+            width: 600px;
+            height: 200px;
+            display: flex;
+            justify-content: center;
+            justify-items: center;
+        }
+        img{
+            width: 100px;
+            height: 100px;
+        }
+        body {
+            display: flex;
+            justify-content: center;
+        }
+    </style>
+</head>
+
+<body onmouseenter="animation()">
+    <div  onmouseleave="stop()">
+        <img src="imgs/marble3.jpg">
+        <img src="imgs/marble1.jpg">
+        <img src="imgs/marble1.jpg">
+        <img src="imgs/marble1.jpg">
+        <img src="imgs/marble1.jpg">
+    </div>
+    <!-- <script src="script.js"></script> -->
+    <script src="otherSolution.js"></script>
+</body>
+
+</html>
