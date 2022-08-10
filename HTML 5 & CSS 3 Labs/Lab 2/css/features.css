@@ -1,0 +1,64 @@
+@font-face {
+    font-family: Header;
+    src: url(/fonts/AlexBrush-Regular.ttf);
+}
+@font-face {
+    font-family: Topic;
+    src: url(/fonts/Raleway-Regular.ttf);
+}
+.element{
+    width: 32%;
+    display: flex;
+    justify-content: space-between;
+    text-align: left;
+}
+.row {
+    background-color: lightgray;
+    justify-content: space-around;
+}
+.title{
+    width: 70%;
+    text-align: center;
+}
+.container{
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    margin: 5%;
+}
+h1  {
+    font-family: Header;
+    font-weight: 900;
+    font-size: xxx-large;
+}
+.item{
+    margin: auto;
+    margin-right: 10%;
+}
+i{
+    color: #cb2424;
+    font-size: xx-large !important;
+    text-shadow: 55 65 black;
+    border: 2px solid white;
+    background-color: white;
+    border-radius: 50%;
+    padding: 15px;
+    margin: auto;
+    box-shadow: inset 0px 0px 0px 4px #eee;
+    transition: all .5s ease-in;
+}
+i:hover{
+        background-color:  #cb2424;
+        border: 2px solid  #cb2424;
+        color: white;
+        box-shadow: inset 0px 0px 0px 4px #cb2424;
+        /* transition: all .5s ease-in; */
+}
+h5{
+    font-family: Header;
+    font-weight: 600;
+    font-size: x-large;
+}
+p {
+    font-family: Topic;
+}

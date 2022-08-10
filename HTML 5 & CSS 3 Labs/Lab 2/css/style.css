@@ -1,0 +1,98 @@
+@font-face {
+    font-family: AChar;
+    src: url(/fonts/AlexBrush-Regular.ttf);
+}
+.black{
+    height: 300px;
+    background-color: black;
+    width: 110px;
+    margin: 10px;
+    display: flex;
+    flex-flow: column;
+}
+.light{
+    height: 95px;
+    width: 95px;
+    border-radius: 50%;
+    margin: 5px;
+}
+.green{
+    background-color:green;
+}
+.red{
+    background-color:red;
+}
+.yellow{
+    background-color:yellow;
+}
+.green:hover{
+    box-shadow: 0px 0px 14px 4px green;
+}
+.red:hover{
+    box-shadow: 0px 0px 14px 4px red;
+}
+.yellow:hover{
+    box-shadow: 0px 0px 14px 4px yellow;
+}
+.card{
+    border: 3px solid red;
+    margin: 50px;
+    width: 300px;
+    height: 400px;
+    border-radius: 35px;
+}
+.rChar,.lChar{
+    font-family: AChar;
+    font-size: xx-large;
+    font-weight: 700;
+    position: absolute;
+
+}
+.rChar{
+    left: 20px;
+    top: 20px;
+}
+.lChar{
+    bottom: 20px;
+    right: 20px;
+}
+.trapezoid{
+    border-bottom: 100px solid black;
+    border-left: 25px solid transparent;
+    border-right: 25px solid transparent;
+    height: 0;
+    width: 75px;
+    position: absolute;
+    top: 48px;
+    left: 10px;
+
+}
+.draw{
+    position: absolute;
+    left: 100px;
+    top: 100px;
+}
+.heart {
+    position: relative;
+    width: 100px;
+    height: 90px;
+    transform: rotate(180deg);
+  }
+  .heart:before,
+  .heart:after {
+    position: absolute;
+    content: "";
+    left: 50px;
+    top: 0;
+    width: 50px;
+    height: 80px;
+    background: black;
+    border-radius: 50px 50px 0 0;
+    transform: rotate(-45deg);
+    transform-origin: 0 100%;
+  }
+  .heart:after {
+    left: 0;
+    transform: rotate(45deg);
+    transform-origin: 100% 100%;
+  }

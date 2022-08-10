@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x" crossorigin="anonymous">
+    <title>Text Color Range</title>
+</head>
+<body>
+    <div class="p-5 m-5">
+        Red : <input type="range" min="0" max="255" onchange="changeColor()" value="0" class="range m-3">
+        Green : <input type="range" min="0" max="255" onchange="changeColor()" value="0" class="range m-3">
+        Blue : <input type="range" min="0" max="255" onchange="changeColor()" value="0" class="range m-3">
+        <p id="para" class="fs-3 m-3">“I'm selfish, impatient and a little insecure. I make mistakes, I am out of control and at times hard to handle. But if you can't handle me at my worst, then you sure as hell don't deserve me at my best.”</p>
+    </div>
+    <script>
+        function changeColor(){
+            var paragraph = document.getElementById("para")
+            var range = document.getElementsByClassName("range")
+            paragraph.style.color= 'rgb(' + range[0].value + ', ' + range[1].value + ', '
+            + range[2].value + ')'
+        }
+    </script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-gtEjrD/SeCtmISkJkNUaaKMoLD0//ElJ19smozuHV6z3Iehds+3Ulb9Bn9Plx0x4" crossorigin="anonymous"></script>
+</body>
+</html>

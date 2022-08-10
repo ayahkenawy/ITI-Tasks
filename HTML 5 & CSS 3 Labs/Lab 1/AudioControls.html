@@ -1,0 +1,90 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/js/all.min.js"></script>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x" crossorigin="anonymous">
+    <title>Audio Controls</title>
+    <link href="css/stylesheet.css" rel="stylesheet">
+</head>
+
+<body>
+    <div class="container">
+
+        <div class="card">
+
+            <div class="card-img-top">
+
+                <div id="Album-carousel" class="carousel slide">
+
+                    <div class="carousel-inner">
+
+                        <div class="carousel-item active">
+
+                            <img id="img" 
+                                class="album-img">
+
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+
+            <div class="card-body">
+
+                <div id="songName">Choose Song</div>
+                <div><input id="track" type="range" class="w-100" name="track" value="0"></div>
+                <div class="controls">
+
+                    <button id="play"><i class="fa-solid fa-play" ></i></button>
+                    <button id="pause"><i class="fa-solid fa-pause"></i></button>
+                    <button id="stop"><i class="fa-solid fa-stop"></i></button>
+                    <button id="mute"><i class="fa-solid fa-volume-high"></i></button>
+                    
+                    <div><input id="vol" type="range" class="w-100" name="vol" value=".5" max="1" min="0" step=".1"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
+        integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
+        crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.3/umd/popper.min.js"
+        integrity="sha384-vFJXuSJphROIrBnz7yo7oB41mKfc8JzQZiCq4NCceLEaO4IHwicKwpJf9c9IpFgh"
+        crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.min.js"
+        integrity="sha384-alpBpkh1PFOepccYVYDB4do5UnbKysX5WZXm3XxPqe5iKTfUKjNkCk9SaVuEZflJ"
+        crossorigin="anonymous"></script>
+    <ul class="list-group">
+        <li class="list-group-item ">Super Mario Bros
+            <audio class="audio" >
+                <!-- <source src="Media/Super Mario Bros (NES) Music - Overworld Theme.mp3" type="audio/mp3">
+                <source src="Media/Super Mario Bros (NES) Music - Overworld Theme.ogg" type="audio/ogg"> -->
+                <p>Your browser doesn't support HTML5 audio.</p>
+            </audio>
+        </li>
+        <li class="list-group-item" id="adele">Adele Easy On My
+            <!-- <audio class="audio">
+                <source src="Media/adele easy on my.mp3" type="audio/mp3">
+                <p>Your browser doesn't support HTML5 audio.</p>
+            </audio> -->
+        </li>
+        <li class="list-group-item" >Sia Beautiful Things Can Happen
+            <!-- <audio class="audio">
+                <source src="Media/Sia-Beautiful-Things-Can-Happen-(TrendyBeatz.com).mp3" type="audio/mp3">
+                <p>Your browser doesn't support HTML5 audio.</p>
+            </audio> -->
+        </li>
+    </ul>
+    <script src="js/script.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-gtEjrD/SeCtmISkJkNUaaKMoLD0//ElJ19smozuHV6z3Iehds+3Ulb9Bn9Plx0x4"
+        crossorigin="anonymous"></script>
+</body>
+
+</html>

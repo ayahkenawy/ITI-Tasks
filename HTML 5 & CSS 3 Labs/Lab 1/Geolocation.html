@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <script src="https://polyfill.io/v3/polyfill.min.js?features=default"></script>
+    <!-- <script>
+        const process = { env: {} };
+        process.env.GOOGLE_MAPS_API_KEY =
+            "AIzaSyB41DRUbKWJHPxaFjMAwdrzWzbVKartNGg";
+    </script> -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x" crossorigin="anonymous">
+    <title>Geolocation</title>
+    <style>
+        #map 
+        {
+            height: 100%;
+        }
+        html , body 
+        {
+            height: 100%;
+            margin: 0;
+            padding: 0;
+        }
+    </style>
+</head>
+
+<body>
+    <div id="map"></div>
+    <script>
+        window.navigator.geolocation.getCurrentPosition(function(position){
+         
+            initMap(position.coords.latitude,position.coords.longitude)
+        })
+        function initMap(lat,lng) {
+            const myLatLng = { lat: lat, lng: lng };
+          
+            const map = new google.maps.Map(
+              document.getElementById("map") ,
+              {
+                zoom: 16,
+                center: myLatLng,
+              }
+            );
+          
+            new google.maps.Marker({
+              position: myLatLng,
+              map,
+              title: "Hello World!",
+            });
+          }
+    </script>
+    <script
+    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyB41DRUbKWJHPxaFjMAwdrzWzbVKartNGg&v=weekly"
+    defer
+  ></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-gtEjrD/SeCtmISkJkNUaaKMoLD0//ElJ19smozuHV6z3Iehds+3Ulb9Bn9Plx0x4"
+        crossorigin="anonymous"></script>
+</body>
+
+</html>
